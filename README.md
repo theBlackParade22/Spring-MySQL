@@ -1,2 +1,2 @@
 # Spring-MySQL
-Testing Spring framework with MySQL
+Learning/testing Spring framework with MySQL
